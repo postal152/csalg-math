@@ -57,6 +57,7 @@
     <Compile Include="automatic_data_processing\genetic\strategies\StandardRankSelection.cs" />
     <Compile Include="automatic_data_processing\genetic\strategies\StandardMergeStrategy.cs" />
     <Compile Include="automatic_data_processing\genetic\strategies\StandardMutationStrategy.cs" />
+    <Compile Include="automatic_data_processing\modeling\LeastSquareMethod.cs" />
     <Compile Include="automatic_data_processing\neural network\ActivationFunction.cs" />
     <Compile Include="automatic_data_processing\neural network\ActiveLayer.cs" />
     <Compile Include="automatic_data_processing\neural network\ActiveNeuron.cs" />
@@ -81,9 +82,7 @@
   <ItemGroup>
     <Content Include="TODO.txt" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="automatic_data_processing\modeling\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
