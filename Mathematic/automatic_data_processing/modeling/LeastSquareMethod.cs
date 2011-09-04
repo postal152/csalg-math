@@ -28,7 +28,6 @@ namespace Mathematic.automatic_data_processing.modeling
 					for(int k=0; k < X.Count; k++){
 						A[i][j].Value += Math.Pow(X[k], i) * Math.Pow(X[k], j);
 					}
-					
 				}
 			}
 
