@@ -1,11 +1,4 @@
-﻿/**
- * Данный класс, является устаревшим.
- * Остался для истории.
- * В последствии будет удален из репозитария
- * 
- */
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Text;
 
