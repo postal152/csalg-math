@@ -7,7 +7,7 @@
 || Complex(double r, double im) || ||  ||
 || Complex() || ||  ||
 || Copy() || Complex || ||
-|| FromExp(double pe) || Complex || ||
+|| FromExp (double pe) || Complex || ||
 || Equals || bool || ||
 || Add(Complex c) || Complex || ||
 || Subtract || Complex || ||
