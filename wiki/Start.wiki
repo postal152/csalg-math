@@ -1,7 +1,7 @@
 ﻿=Пакеты=
 
   * [automatic_data_processing automatic_data_processing]
-  * [HelpMe complex]
+  * [p_complex complex]
   * [HelpMe factor_analisys]
   * [HelpMe matrix]
   * [HelpMe utils]
