@@ -1,0 +1,22 @@
+=Класс Complex=
+
+==Методы==
+
+|| *Сигнатура* || *Возвращает* || *Описание* ||
+|| Complex(double r) || ||  ||
+|| Complex(double r, double im) || ||  ||
+|| Complex() || ||  ||
+|| Copy() || Complex || ||
+|| FromExp(double pe) || Complex || ||
+|| Equals || bool || ||
+|| Add(Complex c) || Complex || ||
+|| Subtract || Complex || ||
+|| Multiply(Complex c) || Complex || ||
+|| Multiply(double d) || Complex || ||
+|| Division(double d) || Complex || || 
+|| Division(Complex c) || Complex || ||
+
+
+==Свойства==
+
+|| *Название* || *Описание* ||
