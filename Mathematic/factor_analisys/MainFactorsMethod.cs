@@ -161,10 +161,10 @@ namespace Mathematic.factor_analisys
 
 			//Console.WriteLine(quadroLambda.printMe());
 
-			Matrix A = V.MultiplyMatrixByMatrix(quadroLambda);
+			Matrix A = V.MultiplyMatrixByMatrix(quadroLambda).InverseMatrix();
 			//Console.WriteLine(A.printMe());
 			// находим результирующую матрицу F и транспонируем, чтобы было красивее =) 
-			Matrix F = A.InverseMatrix().MultiplyMatrixByMatrix(Z.TransposeMatrix());
+			Matrix F = A.MultiplyMatrixByMatrix(Z.TransposeMatrix());
 
 			//Console.WriteLine((A.MultiplyMatrixByMatrix(A.InverseMatrix())).printMe());
 			//Console.WriteLine((A.InverseMatrix().MultiplyMatrixByMatrix(A)).printMe());
@@ -172,6 +172,7 @@ namespace Mathematic.factor_analisys
 
 			resultData = new MainFactorsMethodsResult();
 			resultData.F = F;
+			resultData.A = A;
 
 			return resultData;
 		}
