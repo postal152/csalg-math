@@ -1,7 +1,7 @@
 ﻿=Пакеты=
 
-[HelpMe automatic_data_processing]
-[HelpMe complex]
-[HelpMe factor_analisys]
-[HelpMe matrix]
-[HelpMe utils]
+  [HelpMe automatic_data_processing]
+  [HelpMe complex]
+  [HelpMe factor_analisys]
+  [HelpMe matrix]
+  [HelpMe utils]
