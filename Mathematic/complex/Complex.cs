@@ -75,7 +75,7 @@ namespace Mathematic.complex
 		}
 
 		public Complex Multiply(Complex c) {
-			return new Complex(R * c.R - Im * c.Im, R * c.Im + c.R * Im);
+			return new Complex(R * c.R - Im * c.Im, Im * c.R + R * c.Im);
 		}
 
 		public Complex Multiply(double d)
