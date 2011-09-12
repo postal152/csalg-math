@@ -9,6 +9,6 @@ namespace Mathematic.factor_analisys
 	public class MainFactorsMethodsResult
 	{
 		public Matrix F;
-
+		public Matrix A;
 	}
 }
