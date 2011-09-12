@@ -1,0 +1,11 @@
+=automatic_data_processing=
+Пакет содержит классы для автоматизированной обработки информации
+
+==Внутренние пакеты==
+  * [HelpMe genetic]
+  * [HelpMe modeling]
+  * [HelpMe neural network]
+  * [HelpMe transform]
+
+==Классы==
+  * Нет.
