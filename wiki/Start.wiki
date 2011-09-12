@@ -1,1 +1,7 @@
-﻿Хай
+﻿=Пакеты=
+
+[test automatic_data_processing]
+[complex]
+factor_analisys
+matrix
+utils
