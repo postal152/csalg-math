@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mathematic</name>
+    </assembly>
+    <members>
+        <member name="M:Mathematic.ComplexMethods.StandardizeTheMatrix(Mathematic.matrix.Matrix)">
+            <summary>
+            Стандартизирует переданную матрицу
+            </summary>
+            <param name="matrix"></param>
+            <returns>Возвращает стандартизированную матрицу</returns>
+        </member>
+        <member name="M:Mathematic.ComplexMethods.GetFadeevSolution(Mathematic.matrix.Matrix)">
+            <summary>
+            Эм... чего-то про след матрицы и метод Фадеева
+            </summary>
+            <param name="matrix"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.ComplexMethods.VectorNorm(System.Collections.Generic.List{System.Double})">
+            <summary>
+            Возвращает норму вектора
+            </summary>
+            <param name="vector">Вектор</param>
+            <returns>Норма</returns>
+        </member>
+        <member name="M:Mathematic.ComplexMethods.NormalizeVector(Mathematic.matrix.Matrix)">
+            <summary>
+            Возвращает нормализованную матрицу
+            </summary>
+            <param name="matrix">исходная матрица</param>
+            <returns>нормализованная</returns>
+        </member>
+        <member name="M:Mathematic.ComplexMethods.SimpleNewtonMethod(System.Collections.Generic.List{System.Double},System.Double,System.Double)">
+            <summary>
+            Метод Ньютона для нахождения корня полинома
+            </summary>
+            <param name="param">параметры полинома</param>
+            <param name="startCore">начальное приближение корня</param>
+            <param name="precision">точность</param>
+            <returns>найденный корень</returns>
+        </member>
+        <member name="M:Mathematic.ComplexMethods.ComplexNewtonMethod(Mathematic.ComplexNewtonMethodData)">
+            <summary>
+            Метод Ньютона типа сложный чтобы найти все корни
+            </summary>
+            <param name="coresNeeded">количество необходимых корней</param>
+            <param name="param">параметры для полинома</param>
+            <param name="startCore">начальное значения диапозона</param>
+            <param name="finishCore">конечное значение диапозона</param>
+            <param name="coreStep">шаг для приближенных корней</param>
+            <param name="corePrecision">точность с которой корни должны отличаться</param>
+            <param name="simplePrecision">точность для нахождения одного приближенного корня</param>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.ComplexMethods.SolutePolynom(System.Collections.Generic.List{System.Double},System.Double)">
+            <summary>
+            Решает полином с заданными параметрами
+            </summary>
+            <param name="parames">Параметры при переменных</param>
+            <param name="core">Значение переменной</param>
+            <returns>значение</returns>
+        </member>
+        <member name="M:Mathematic.ComplexMethods.SoluteProizvPolynom(System.Collections.Generic.List{System.Double},System.Double)">
+            <summary>
+            Решает производную полинома
+            </summary>
+            <param name="parames">Параметры при переменных</param>
+            <param name="core">Значение переменной</param>
+            <returns>значение</returns>
+        </member>
+        <member name="M:Mathematic.ComplexMethods.RosenblattParzenAssessment(System.Collections.Generic.List{System.Double},System.Int32,Mathematic.matrix.Matrix,System.Collections.Generic.List{System.Double},Mathematic.KernelType)">
+            <summary>
+            Оценка Розенблата Парзена
+            </summary>
+            <param name="x">Текущее значение для оценки</param>
+            <param name="data">Данные где столбцы это признаки</param>
+            <param name="h">массив коэффицентов размытости</param>
+            <param name="kernel">Функция ядра</param>
+            <returns>Оценку... Внезапно</returns>
+        </member>
+        <member name="M:Mathematic.matrix.MatrixElementsList.#ctor(System.UInt32)">
+            <summary>
+            Создает ряд или столбец элементов матрицы
+            </summary>
+            <param name="count">количество элементов в матрице</param>
+        </member>
+        <member name="M:Mathematic.matrix.MatrixElementsList.GetRawData">
+            <summary>
+            Возвращает список элементов типа double
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mathematic.matrix.MatrixElementsList.Count">
+            <summary>
+            Количество элементов в списке Readonly
+            </summary>
+        </member>
+        <!-- Некорректный XML-комментарий для члена "P:Mathematic.matrix.MatrixElementsList.List" проигнорирован -->
+        <member name="M:Mathematic.automatic_data_processing.neural_network.ActivationFunction.GetSigmoid(System.Double)">
+            http://www.rae.ru/monographs/65-2465
+        </member>
+        <member name="M:Mathematic.Statistics.GetMathWating(System.Collections.Generic.List{System.Double})">
+            <summary>
+            Нахождение оценки математического ожидания
+            </summary>
+            <param name="data">массив с данными</param>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.Statistics.GetDispersion(System.Collections.Generic.List{System.Double},System.Double)">
+            <summary>
+            Возвращает оценку дисперсии
+            </summary>
+            <param name="data">массив с данными</param>
+            <param name="mathWaiting"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.Statistics.GetCovariation(System.Collections.Generic.List{System.Double},System.Collections.Generic.List{System.Double})">
+            <summary>
+            Расчет ковариации между двумя выборками
+            </summary>
+            <param name="dataX">выборка 1</param>
+            <param name="dataY">выборка 2</param>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.Statistics.GetCorrelation(System.Collections.Generic.List{System.Double},System.Collections.Generic.List{System.Double})">
+            <summary>
+            Расчет корреляции между двумя выборками
+            </summary>
+            <param name="dataOne">выборка 1</param>
+            <param name="dataTwo">выборка 2</param>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.Statistics.GetPairCorrelationsMatrix(Mathematic.matrix.Matrix)">
+            <summary>
+            Вычисляет матрицу парных корреляций
+            </summary>
+            <returns>МАтрицу парных корреляция</returns>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.#ctor(System.UInt32,System.UInt32)">
+            <summary>
+            Создает матрицу размером rowCount*columnCount
+            </summary>
+            <param name="rowCount">Количество строк</param>
+            <param name="columnCount">Количество столбцов</param>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.#ctor(System.UInt32)">
+            <summary>
+            Создает квадратную матрицу размера size
+            </summary>
+            <param name="size">Порядок матрицы</param>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.#ctor(System.UInt32,System.Double)">
+            <summary>
+            Создает диагональную матрицу с заданным диагональным числом
+            </summary>
+            <param name="size">Размер матрицы</param>
+            <param name="number">Число на диагонали</param>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.initMatrix(System.UInt32,System.UInt32)">
+            <summary>
+            Инициализация матрицы
+            </summary>
+            <param name="rowCount"></param>
+            <param name="columnCount"></param>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.MultiplyMatrixByNumber(System.Double)">
+            <summary>
+            Умножает текущую матрицу на число и возвращает новую матрицу, содержащую результат
+            </summary>
+            <param name="number">Множитель</param>
+            <returns>Новая матрица=Старая*number</returns>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.MultiplyMatrixByMatrix(Mathematic.matrix.Matrix)">
+            <summary>
+            Умножение матрицы на матрицу
+            </summary>
+            <param name="matrix">матрица на которую нужно умножить текущую</param>
+            <returns>новая матрица являющаяся результатом умножения текущий матрицы на переданную</returns>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.TransposeMatrix">
+            <summary>
+            Возвращает матрицу равную текущей, но транспонированной 
+            </summary>
+            <returns>Транспонированная матрица</returns>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.SubtractionMatrix(Mathematic.matrix.Matrix)">
+            <summary>
+            Вычитает из текущей матрицу другую матрицу
+            </summary>
+            <param name="matrix">Матрица</param>
+            <returns>Новая матрица содержащая результат</returns>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.AdditionMatrix(Mathematic.matrix.Matrix)">
+            <summary>
+            Складывает две матрицы
+            </summary>
+            <param name="matrix">Вторая слагаемая матрица</param>
+            <returns>Новая матрица содержащая результат</returns>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.ComputeDeterminant">
+            <summary>
+            Считает определитель матрицы
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.CutMinorMatrix(System.UInt32,System.UInt32)">
+            <summary>
+            Рекурсивное нахождение дополнительного минора
+            </summary>
+            <param name="rowIndex">iый индекс</param>
+            <param name="columnIndex">jый индекс</param>
+            <returns>минор</returns>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.GetTrOfMatrix">
+            <summary>
+            Возвращает некое Tr от матрицы
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.UnionMatrix">
+            <summary>
+            Находит союзную матрицу
+            </summary>
+            <returns>Возвращает новую союзную матрицу</returns>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.InverseMatrix">
+            <summary>
+            Находит обратную матрицу
+            </summary>
+            <returns>Возвращает новую обратную матрицу</returns>
+        </member>
+        <member name="M:Mathematic.matrix.Matrix.Copy">
+            <summary>
+            Копирует текущую матрицу матрицу
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Mathematic.matrix.Matrix.Item(System.Int32)">
+            <summary>
+            Перечисление строк матрицы
+            </summary>
+            <param name="i">индекс строки</param>
+            <returns>Возвращает MatrixElementsList</returns>
+        </member>
+        <member name="P:Mathematic.matrix.Matrix.RowCount">
+            <summary>
+            Количество строк в матрице READ-ONLY
+            </summary>
+        </member>
+        <member name="P:Mathematic.matrix.Matrix.ColumnCount">
+            <summary>
+            Количество столбцов в матрице READ-ONLY
+            </summary>
+        </member>
+        <member name="P:Mathematic.matrix.Matrix.Rows">
+            <summary>
+            Список со строками
+            </summary>
+        </member>
+        <member name="P:Mathematic.matrix.Matrix.Columns">
+            <summary>
+            Список со столбцами
+            </summary>
+        </member>
+    </members>
+</doc>

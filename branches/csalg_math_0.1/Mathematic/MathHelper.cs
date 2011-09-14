@@ -7,7 +7,7 @@ namespace Mathematic
 	public class MathHelper
     {
 		private static Random _random;
-
+		//
         public static double random()
         {
 			if (_random == null) {

@@ -3,3 +3,8 @@ C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\diplom\DiplomFactorniiAnaliz\M
 C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\diplom\DiplomFactorniiAnaliz\Mathematic\obj\Release\ResolveAssemblyReference.cache
 C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\diplom\DiplomFactorniiAnaliz\Mathematic\obj\Release\Mathematic.dll
 C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\diplom\DiplomFactorniiAnaliz\Mathematic\obj\Release\Mathematic.pdb
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1\Mathematic\bin\Release\Mathematic.dll
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1\Mathematic\bin\Release\Mathematic.pdb
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1\Mathematic\obj\Release\ResolveAssemblyReference.cache
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1\Mathematic\obj\Release\Mathematic.dll
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1\Mathematic\obj\Release\Mathematic.pdb
