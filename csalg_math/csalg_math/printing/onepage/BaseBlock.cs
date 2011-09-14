@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Drawing;
-using PrintingTest.geom;
+using csalg_math.geom;
 
-namespace PrintingTest.printing.onepage
+namespace csalg_math.printing.onepage
 {
 	public abstract class BaseBlock:Rect
 	{
