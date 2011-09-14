@@ -9,3 +9,5 @@ C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\
 C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\bin\Debug\Mathematic.dll
 C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\bin\Debug\Mathematic.pdb
 C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\obj\x86\Debug\least_square_method.Form1.resources
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1-matrix-refactored\least square method\least square method\obj\x86\Debug\least square method.exe
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1-matrix-refactored\least square method\least square method\obj\x86\Debug\least square method.pdb
