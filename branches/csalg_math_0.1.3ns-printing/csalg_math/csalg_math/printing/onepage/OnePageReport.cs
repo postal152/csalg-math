@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Drawing;
-using PrintingTest.geom;
-namespace PrintingTest.printing.onepage
+using csalg_math.geom;
+namespace csalg_math.printing.onepage
 {
 	class OnePageReport:Rect
 	{

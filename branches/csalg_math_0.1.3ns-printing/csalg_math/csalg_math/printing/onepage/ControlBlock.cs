@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using PrintingTest.geom;
+using csalg_math.geom;
 using System.Drawing;
 
-namespace PrintingTest.printing.onepage
+namespace csalg_math.printing.onepage
 {
 	public class ControlBlock:BaseBlock
 	{
