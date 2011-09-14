@@ -55,7 +55,7 @@ namespace Mathematic.matrix
 		}
 
 		/// <summary>
-		/// Доступ к List<MatrixElement>
+		/// <![CDATA[Доступ к List<MatrixElement>]]>
 		/// </summary>
 		public List<MatrixElement> List {
 			get {
