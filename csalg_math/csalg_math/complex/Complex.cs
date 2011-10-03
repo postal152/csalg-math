@@ -55,17 +55,6 @@ namespace csalg_math.complex
 
 		}
 
-		public override bool Equals(object obj)
-		{
-			Complex c = (Complex)obj;
-			if (c == null) return false;
-
-			if (c.R == R && c.Im == Im) {
-				return true;
-			}
-			return false;
-		}
-
 		public Complex Add(Complex c) {
 			return new Complex(R + c.R, Im + c.Im);
 		}

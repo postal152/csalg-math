@@ -8,3 +8,8 @@ C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.
 C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.3ns-printing\csalg_math\csalg_math\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.3ns-printing\csalg_math\csalg_math\obj\Debug\csalg_math.dll
 C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.3ns-printing\csalg_math\csalg_math\obj\Debug\csalg_math.pdb
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.4ns-formula\csalg_math\csalg_math\bin\Debug\csalg_math.dll
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.4ns-formula\csalg_math\csalg_math\bin\Debug\csalg_math.pdb
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.4ns-formula\csalg_math\csalg_math\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.4ns-formula\csalg_math\csalg_math\obj\Debug\csalg_math.dll
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.4ns-formula\csalg_math\csalg_math\obj\Debug\csalg_math.pdb

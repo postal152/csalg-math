@@ -1,0 +1,5 @@
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.4ns-formula\csalg_math\csalg_math\bin\Release\csalg_math.dll
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.4ns-formula\csalg_math\csalg_math\bin\Release\csalg_math.pdb
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.4ns-formula\csalg_math\csalg_math\obj\Release\ResolveAssemblyReference.cache
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.4ns-formula\csalg_math\csalg_math\obj\Release\csalg_math.dll
+C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.4ns-formula\csalg_math\csalg_math\obj\Release\csalg_math.pdb
