@@ -9,3 +9,14 @@ C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\
 C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\bin\Debug\Mathematic.dll
 C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\bin\Debug\Mathematic.pdb
 C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\obj\x86\Debug\least_square_method.Form1.resources
+C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\obj\x86\Debug\least square method.exe
+C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\obj\x86\Debug\least square method.pdb
+C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\bin\Debug\least square method.exe
+C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\bin\Debug\least square method.pdb
+C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\bin\Debug\Mathematic.dll
+C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\bin\Debug\Mathematic.pdb
+C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\obj\x86\Debug\least_square_method.Form1.resources
+C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\obj\x86\Debug\least_square_method.Properties.Resources.resources
+C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BigLittleBox\Desktop\mydocs\work\repo\csalg-math\branches\csalg_math_0.1.1\least square method\least square method\obj\x86\Debug\GenerateResource.write.1.tlog
