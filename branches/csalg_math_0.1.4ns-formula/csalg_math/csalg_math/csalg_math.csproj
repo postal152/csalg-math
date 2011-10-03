@@ -71,6 +71,16 @@
     <Compile Include="complex\Complex.cs" />
     <Compile Include="factor_analisys\MainFactorsMethod.cs" />
     <Compile Include="factor_analisys\MainFactorsMethodsResult.cs" />
+    <Compile Include="formula\base_elements\DuoOperation.cs" />
+    <Compile Include="formula\base_elements\Expression.cs" />
+    <Compile Include="formula\base_elements\Function.cs" />
+    <Compile Include="formula\base_elements\Functions.cs" />
+    <Compile Include="formula\base_elements\Operand.cs" />
+    <Compile Include="formula\Element.cs" />
+    <Compile Include="formula\FormulaParser.cs" />
+    <Compile Include="formula\InfixNotationParser.cs" />
+    <Compile Include="formula\ReversePolishNotationParser.cs" />
+    <Compile Include="formula\VariableDataSource.cs" />
     <Compile Include="geom\Rect.cs" />
     <Compile Include="KernelType.cs" />
     <Compile Include="MathHelper.cs" />
