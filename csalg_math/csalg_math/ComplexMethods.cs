@@ -379,10 +379,10 @@ namespace csalg_math
 			for (i = 0; i < data.RowCount; i++) {
 				resultMult = 1;
 				for (j = 0; j < data.ColumnCount; j++) {
-					if (indexOfX != i)
-					{
+					//if (indexOfX != i)
+					//{
 						resultMult *= (1.0 / h[j]) * kernel.Calculate((x[j] - data[i][j].Value) / h[j]);
-					}
+					//}
 				}
 				resultSumm += resultMult;
 			}
