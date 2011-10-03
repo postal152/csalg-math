@@ -1,7 +1,0 @@
-C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\diplom\DiplomFactorniiAnaliz\Mathematic\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\diplom\DiplomFactorniiAnaliz\Mathematic\bin\Debug\Mathematic.dll
-C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\diplom\DiplomFactorniiAnaliz\Mathematic\bin\Debug\Mathematic.pdb
-C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\diplom\DiplomFactorniiAnaliz\Mathematic\obj\Debug\Mathematic.dll
-C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\diplom\DiplomFactorniiAnaliz\Mathematic\obj\Debug\Mathematic.pdb
-C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\diplom\DiplomFactorniiAnaliz\Mathematic\bin\Release\Mathematic.dll
-C:\Users\BigLittleBox\Documents\My Dropbox\mydocs\diplom\DiplomFactorniiAnaliz\Mathematic\bin\Release\Mathematic.pdb
