@@ -15,7 +15,15 @@ namespace Mathematic.factor_analisys
 			int N, M, i, j, k;
 
 			//находим нормированную матрицу
+			List<double> f1 = rawData.Rows[0].GetRawData();
+			Console.WriteLine("F1!!!!!!!!1" + f1.Count);
 			Matrix Z = ComplexMethods.StandardizeTheMatrix(rawData);
+			List<double> f2 = Z.Rows[0].GetRawData();
+
+			for (i = 0; i < 7; i++) {
+				Console.WriteLine("d = "+(f1[i]/f2[i]));
+			}
+
 			N = (int)Z.ColumnCount;
 			M = (int)Z.RowCount;
 
@@ -173,6 +181,8 @@ namespace Mathematic.factor_analisys
 			resultData = new MainFactorsMethodsResult();
 			resultData.F = F;
 			resultData.A = A;
+
+
 
 			return resultData;
 		}

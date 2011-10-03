@@ -27,18 +27,25 @@ namespace least_square_method
 			List<double> Y = new List<double>();
 
 			int count = 100;
+			int count2 = count * count;
 			double x,y;
 			for (int i = 0; i < count; i++) {
-				x=(double)(i);
-				y = Math.Sin(i*2*Math.PI/180) +GetRandom.GetNextDoubleFromRange(-0.5, 0.5);
-				X.Add(x);
-				Y.Add(y);
+				x = Math.Pow(i, 2);// (double)(i);
+				y = i;// Math.Sin(i * 2 * Math.PI / 180) + GetRandom.GetNextDoubleFromRange(-0.5, 0.5);
+				
 				chart1.Series[0].Points.AddXY(x, y);
+				
 			}
 
-			
+			for (int i = 0; i < count2; i++) {
+				x = (double)i / (double)count2+0.00001;
+				X.Add(x);
+				Y.Add(Math.Sqrt(x));
+			}
 
-			uint order = 6;
+			count = count2;
+
+			uint order = 5;
 
 			List<double> res = LeastSquareMethod.Solve(X, Y, order);
 
